@@ -49,6 +49,13 @@ button {
     border-width: 0.1rem;
 
 }
+
+#btn-translate {
+    margin-top: 1rem;
+ padding: 8px 1rem;
+    border-radius: 10px;
+    background-color: #eab308;
+}
     
 #output{
     margin: auto;
@@ -58,6 +65,7 @@ button {
     background-color: white;
     height: 3rem;
     border-radius: 1rem;
+    margin-bottom: 1rem;
 
 }
     
